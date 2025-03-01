@@ -1,0 +1,48 @@
+.ota {
+    background-color: rgb(62, 25, 96);
+    border-radius: 20px;
+}
+
+button {
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    justify-content: center;
+    margin: 55px;
+    background-color: red;
+}
+img{
+    width: 500px;
+    margin: 60px;
+}
+.gg{
+    border-radius: 15px;
+    background-color: black;
+    width: 
+    200px;
+    height: 100px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hh{
+    background-color: red;
+    width:200px ;
+    margin: 60px;
+    display: flex;
+    border-radius: 20px;
+    padding: 40px;
+    font-size: 10px;
+}
+.bola{
+    display: flex;
+    justify-content: center;
+    gap: 400px;
+}
+p{
+    background-color: greenyellow;
+    padding: 30px;
+}
+
+
